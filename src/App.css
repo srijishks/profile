@@ -1,22 +1,70 @@
-.App {
-  text-align: center;
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif
+}
+
+ul {
+	-webkit-padding-start: 0;
+	padding-inline-start: 0
 }
 
 .App-logo {
-  height: 40vmin;
+	-webkit-animation: App-logo-spin 20s linear infinite;
+	animation: App-logo-spin 20s linear infinite;
+	height: 80px
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+	background-color: #222;
+	height: 100px;
+	padding: 20px;
+	color: #fff;
+  text-align: center;
+  padding-bottom: 40px;
 }
 
-.App-link {
-  color: #09d3ac;
+.App-header ul {
+	list-style-type: none
+}
+
+.App-title {
+	font-size: 2em
+}
+
+.App-intro {
+	font-size: large
+}
+
+.home,
+.skills {
+	width: 70%;
+	margin: 0 auto
+}
+
+.double-underline,
+.underline {
+	width: 100%;
+	border-bottom: 1px solid #c5bfbf;
+	margin: 30px 0
+}
+
+.double-underline {
+	border-top: 1px solid #c5bfbf;
+	height: 2px
+}
+
+.cpyrite {
+	width: 70%;
+	margin: 0 auto 50px;
+	font-size: .8em;
+	border-top: 1px solid #000
+}
+
+.my-skills ul {
+	list-style-type: circle
+}
+
+li {
+	padding-top: 8px
 }
