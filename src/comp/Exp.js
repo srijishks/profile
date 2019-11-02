@@ -25,9 +25,9 @@ function Exp() {
       </i>
     </h4>
     <ul className="text-left">
-      <li>    Developing web based applications standards-compliant, responsive web applications by using Angular2+, PHP / MySql, HTML5, CSS, jQuery and Bootstrap focusing on mobile and desktop
+      <li>    Developing web based applications standards-compliant, responsive web applications by using Angular  C# .Net Entity Framework, Sql Server, HTML5, CSS, jQuery and Bootstrap focusing on mobile and desktop
       </li>
-      <li>    Framework/CMS used : Angular2+, Bootstrap, Wordpress
+      <li>    Framework/CMS used : Angular, Bootstrap, C# .Net Entity Framework.
       </li>
       <li>    Continuous Integration and Continuous Delivery
       </li>
