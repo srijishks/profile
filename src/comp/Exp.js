@@ -8,12 +8,43 @@ function Exp() {
   <h2>My Experiences
   </h2>
   <div id="my-work" className="blk text-left">
+    <div className="companydata"> 
+      <div className="company">Company:
+        <b> TCS-NZ  
+        </b>
+      </div>
+      <div className="span"> Aug 2022   - Present
+      </div>
+    </div>
+    <div className="clear">
+    </div>
+    <div className="designation">Application Developer
+    </div>
+    <h4>
+      <i>Key Experience:  
+      </i>
+    </h4>
+    <ul className="text-left">
+      <li>   Developed solutions for a product suite used by 87% of milk tankers across New Zealand.
+      </li>
+      <li>  Engineered a comprehensive customer-facing portal from the ground up for high-stakes agricultural data management.
+      </li>
+      <li>  Developed scalable backend logic using C# .NET (Azure Functions) and built responsive, dynamic front-end interfaces with Angular
+      </li>
+      <li>   Design, development and unit testing of various modules 
+      </li>
+      <li>  Managed and optimized SQL Server databases to process complex statistics related to milk collection and tanker performance metrics.
+      </li>
+    </ul>
+    <div className="underline">
+    </div>
+          
   <div className="companydata"> 
       <div className="company">Company:
         <b> Youtopia Technologies  
         </b>
       </div>
-      <div className="span"> May 2019  - Present
+      <div className="span"> May 2019  - June 2022
       </div>
     </div>
     <div className="clear">
