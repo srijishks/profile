@@ -9,7 +9,7 @@ function Skill() {
   <h2>My Skills</h2>
   <div id="my-skills" className="blk text-left">
     <ul className="text-left">
-    <li>	6 years of frontend development and 5 years of backend experience(Total 11 years) with Web Applications </li>
+    <li>	15 years of experience (9 years in New Zealand) with Web Applications </li>
     <li>	Skilled frontend developer in HTML5, CSS, Bootstrap, Object oriented JS, Nodejs, AngularJS, Angular2+, Typescript, REST API, JSON, JQuery, AJAX, AWS, Expressjs </li>
     <li>	Vast experience in developing highly interactive web applications with Frameworks like Angular2, Angular2+, CodeIgniter and CMS like, WordPress and C#, .NET MVC, Entity framework </li>
     <li>	Mobile Apps development by using PhoneGap, JSON, HTML5 and CSS </li>
